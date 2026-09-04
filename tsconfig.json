@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2022","lib":["ES2022","DOM","DOM.Iterable"],"types":[],"skipLibCheck":true,"noEmit":true,"module":"ESNext","moduleResolution":"Bundler","strict":true},"include":["src/main.ts","src/cursor.ts","src/cursorView.ts","src/vite-env.d.ts"],"references":[{"path":"./tsconfig.worker.json"}]}
